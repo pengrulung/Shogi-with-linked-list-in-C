@@ -1,6 +1,6 @@
 # Shogi with linked list in C
 
-Data Structure Assignment2
+Have fun!!!
 
 109503510_通訊三_龍芃如
 
